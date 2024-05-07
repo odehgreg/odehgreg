@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odehgreg
 - 👀 I’m interested in LEARNING AND MEETING NEW DEVELOPERS ...
-- 🌱 I’m currently intrested in laravel, php
+- 🌱 I’m currently intrested in laravel, php, React and Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jamesodeh80@gmail.com
 - 08132860468
